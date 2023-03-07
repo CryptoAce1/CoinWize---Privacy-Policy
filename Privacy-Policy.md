@@ -22,8 +22,6 @@ Application refers to CoinWize, the software program provided by the Company.
 
 Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to CoinWize.
 
-Country refers to: Karnataka, India
-
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
 Personal Data is any information that relates to an identified or identifiable individual.
